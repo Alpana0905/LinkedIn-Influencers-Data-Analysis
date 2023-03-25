@@ -8,6 +8,7 @@ For the project, the algorithms used were:
   a. Decision Tree Classification
   
   b. Support Vector Classifier
+  
 2. Clustering algorithms
 
   a. K-Means Clustering
